@@ -23,20 +23,3 @@ This complements a HIPAA-focused compliance project by demonstrating breadth
 across multiple regulatory/audit frameworks.
 
 ---
-
-## 📁 Project Structure
-
-soc2-readiness-project/
-├── docs/
-│   ├── 01-company-scope.md         → System description & audit scope
-│   ├── 02-gap-analysis.md          → Full gap analysis with risk ratings
-│   ├── 03-methodology.md           → How this assessment was conducted
-│   └── 04-executive-summary.md     → One-page summary for quick review
-├── matrix/
-│   └── 01-control-matrix.md        → Full SOC 2 control matrix (27 controls)
-├── evidence/
-│   └── [control-specific evidence files, referenced by the matrix]
-├── diagrams/
-│   ├── 01-architecture-diagram.md  → System architecture (Mermaid diagram)
-│   └── 02-data-flow-diagram.md     → Data flow diagram (Mermaid diagram)
-└── README.md
